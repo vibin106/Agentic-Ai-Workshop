@@ -4,7 +4,7 @@ This project is an **Agentic AI-powered automation system** that streamlines the
 
 ## 🔧 System Architecture
 
-![System Architecture](./Screenshot%202025-06-20%20at%208.10.32%E2%80%AFPM.png)
+![System Architecture](https://drive.google.com/file/d/1VhfpluCNUNRF6jhRX50dNarl5Z8eDPKZ/view?usp=drive_link)
 
 ### 🔹 Frontend:
 - **Streamlit UI** – A user-friendly interface to input product details and manage flow.
