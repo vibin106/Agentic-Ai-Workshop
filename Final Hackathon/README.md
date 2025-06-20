@@ -8,8 +8,8 @@ This project is an **Agentic AI-powered automation system** that streamlines the
 
 Since direct image embedding from Google Drive is not supported in Markdown, please use the links below to view the assets:
 
-🔹 **[Architecture Diagram](https://drive.google.com/file/d/1SZxrQKq4N6rtJP3Nia1-O4Y9U0_NhlDI/view?usp=drive_link)**  
-🔹 **[Demo Video](https://drive.google.com/file/d/1VhfpluCNUNRF6jhRX50dNarl5Z8eDPKZ/view?usp=drive_link)**
+🔹 **[Architecture Diagram](https://drive.google.com/file/d/1VhfpluCNUNRF6jhRX50dNarl5Z8eDPKZ/view?usp=drive_link)**  
+🔹 **[Demo Video](https://drive.google.com/file/d/1SZxrQKq4N6rtJP3Nia1-O4Y9U0_NhlDI/view?usp=drive_link)**
 
 ---
 
